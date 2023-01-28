@@ -65,7 +65,7 @@ p{
     display: block;
     color: white;
     
-    background-image: url(../background001.jpg);
+    background-image: url(./background001.jpg);
     background-position: right center;
     background-attachment: fixed;
     background-size: cover;
@@ -80,7 +80,7 @@ p{
     display: block;
     color: white;
     
-    background-image: url(../background002.jpg);
+    background-image: url(./background002.jpg);
     background-position: right center;
     background-attachment: fixed;
     background-size: cover;
